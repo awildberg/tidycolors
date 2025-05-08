@@ -9,6 +9,8 @@ Header colors are from [colorout](https://github.com/jalvesaq/colorout) (not req
 
 ![tibble_pillar_color_starwars](https://github.com/user-attachments/assets/311b03f0-76f4-4f05-9516-ef5433b8cefc)
 
+Also added \<logical> and \<date/datetime>
+
 `tibble::tibble(A=runif(5), B=-2:2, C=c(T,F,T,F,F), T=Sys.time())`
 
 ![tibble_pillar_color_ext](https://github.com/user-attachments/assets/c7b767ab-664f-4a6e-8fce-674ea7b4d48a)
