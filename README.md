@@ -32,6 +32,13 @@ then change **pillar** with
 ```
 cd to_download_dir
 tar -xvf pillar_1.10.2_colorized.tar.gz
+```
+patch *shaft-simple.R*
+```
+mv shaft-simple.R pillar_1.10.2_colorized/R/
+```
+install colorized pillar
+```
 R CMD INSTALL pillar_1.10.2_colorized
 # "sudo" depending on your installation location of R
 ```
