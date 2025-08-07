@@ -3,7 +3,7 @@ Using [`pillar`](https://pillar.r-lib.org) to get colorized output for \<logical
 
 (**pillar** will already be installed alongside **dplyr**/**tidyverse** since **tibble** depends on it).
 
-Header colors are from [colorout](https://github.com/jalvesaq/colorout) (not required for body colors).
+Header colors (here green) are from [colorout](https://github.com/jalvesaq/colorout) (not required for body colors).
 
 `dplyr::starwars`
 
