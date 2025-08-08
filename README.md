@@ -1,5 +1,5 @@
 # tidycolors
-Using [`pillar`](https://pillar.r-lib.org) to get colorized output for \<logical>, \<integer> and \<double> tibble values on R console.
+Using [`pillar`](https://pillar.r-lib.org) to get colorized output for \<integer> and \<double> tibble values on R console.
 
 (**pillar** will already be installed alongside **dplyr**/**tidyverse** since **tibble** depends on it).
 
